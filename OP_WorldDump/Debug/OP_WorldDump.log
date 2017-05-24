@@ -1,0 +1,16 @@
+﻿Build started 25.6.2016 23:52:22.
+     1>Project "c:\Users\AMD\documents\visual studio 2013\Projects\OP_WorldDump\OP_WorldDump\OP_WorldDump.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OP_WorldDump.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OP_WorldDump.cpp
+         OP_WorldDump.cpp
+     1>c:\users\amd\documents\visual studio 2013\projects\op_worlddump\op_worlddump\gt_bot.h(106): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\amd\documents\visual studio 2013\projects\op_worlddump\op_worlddump\op_worlddump.cpp(34): warning C4101: 'fileName2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\amd\documents\visual studio 2013\Projects\OP_WorldDump\Debug\OP_WorldDump.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\amd\documents\visual studio 2013\Projects\OP_WorldDump\Debug\OP_WorldDump.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\amd\documents\visual studio 2013\Projects\OP_WorldDump\Debug\OP_WorldDump.lib" /MACHINE:X86 Debug\OP_WorldDump.obj
+         Debug\stdafx.obj
+         OP_WorldDump.vcxproj -> c:\users\amd\documents\visual studio 2013\Projects\OP_WorldDump\Debug\OP_WorldDump.exe
+     1>Done Building Project "c:\Users\AMD\documents\visual studio 2013\Projects\OP_WorldDump\OP_WorldDump\OP_WorldDump.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

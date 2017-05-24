@@ -1,0 +1,17 @@
+﻿Build started 26.6.2016 15:33:17.
+     1>Project "C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\OP_WorldDump\OP_WorldDump.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\OP_WorldDump.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OP_WorldDump.cpp
+         OP_WorldDump.cpp
+     1>c:\users\amd\documents\visual studio 2013\projects\op_worlddump\op_worlddump\GT_Bot.h(106): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\Release\OP_WorldDump.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\Release\OP_WorldDump.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\Release\OP_WorldDump.lib" /MACHINE:X86 /SAFESEH Release\OP_WorldDump.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         OP_WorldDump.vcxproj -> C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\Release\OP_WorldDump.exe
+     1>Done Building Project "C:\Users\AMD\Documents\Visual Studio 2013\Projects\OP_WorldDump\OP_WorldDump\OP_WorldDump.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.74
